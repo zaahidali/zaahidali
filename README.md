@@ -11,7 +11,7 @@
 <br/>
 <p>
   <em>
-    I am a Final Year undergraduate student of Computer Science at <a href="https://www.imsciences.edu.pk/"> <b>Institute of Management Sciences</b>, Peshawar</a>.  
+    I am alumni of a<a href="https://www.mu.edu.tr/en"> <b> Muğla Sıtkı Koçman University</b>, Turkey</a> and currently a Senior Year undergraduate student of Computer Science at <a href="https://www.imsciences.edu.pk/"> <b>Institute of Management Sciences</b>, Peshawar</a>.  
     A budding <b>Artificial Intelligence</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Deep Learning Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>passionate</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -25,7 +25,7 @@
     
   <li> 👯 I’m open to collaborate on IoT & Deep learning based projects </li>
   <li> 😄 Pronouns: He/Him </li>
-</ul>
+</ul><br/>
 
 <p>
  <!-- GitHub Statistics!-->
@@ -38,6 +38,7 @@
 
 <br/>
 
+<!-- Handshake Gif-->
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
