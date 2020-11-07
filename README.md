@@ -12,10 +12,10 @@
 <p>
   <em>
     I am alumni of a<a href="https://www.mu.edu.tr/en"> <b> Muğla Sıtkı Koçman University</b>, Turkey</a> and currently a Senior Year undergraduate student of Computer Science at <a href="https://www.imsciences.edu.pk/"> <b>Institute of Management Sciences</b>, Peshawar</a>.  
-    A budding <b>Artificial Intelligence</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Deep Learning Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>passionate</b>
+    A budding <b>Artificial Intelligence</b> <img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Developer.gif" width="30px"> and a <b>Deep Learning Enthusiast</b>&nbsp;<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Designer.gif" width="36px">  who is <b>passionate</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    <b>grow</b> <img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 <br/>
