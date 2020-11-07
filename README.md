@@ -19,25 +19,24 @@
   </em>  
 </p>
 <br/>
+<ul>
+  <li> 🔭 I’m currently working on Deep Learning based project </li>
+  <li> 🌱 I’m currently learning <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans"> <b>Generative Adversial Neural Networks</b>, Coursera</a> </li>
+    
+  <li> 👯 I’m open to collaborate on IoT & Deep learning based projects </li>
+  <li> 😄 Pronouns: He/Him </li>
+</ul>
+
+<p>
+ <!-- GitHub Statistics!-->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zaahidali&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,A0A0A0,020104&title_color=fff&text_color=fff" alt="zaahidali"/>
+  
+<!-- Most Languages Used Statistics!-->  
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaahidali&layout=compact&hide=php,smarty&bg_color=30,A0A0A0,020104&title_color=fff&text_color=fff" alt="zaahidali" />
+</p>
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=zaahidali)
-
-<!--
-**zaahidali/zaahidali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Deep Learning based project
-- 🌱 I’m currently learning Generative Adversial Neural Networks
-- 👯 I’m looking to collaborate on IoT based projects
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+<br/>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
