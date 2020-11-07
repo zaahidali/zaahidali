@@ -29,9 +29,10 @@
 
 <p>
  <!-- GitHub Statistics!-->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=zaahidali&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,A0A0A0,020104&title_color=fff&text_color=fff" alt="zaahidali"/>
+<img align="left" height="195px" width="400px" src="https://github-readme-stats.vercel.app/api?username=zaahidali&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,A0A0A0,020104&title_color=fff&text_color=fff" alt="zaahidali"/>
+
 <!-- Most Languages Used Statistics!-->  
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaahidali&layout=compact&hide=php,smarty&bg_color=30,A0A0A0,020104&title_color=fff&text_color=fff" alt="zaahidali" />
+  <img align="center" height="195px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaahidali&layout=compact&hide=php,smarty&bg_color=30,A0A0A0,020104&title_color=fff&text_color=fff" alt="zaahidali" />
 </p>
 
 
