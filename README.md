@@ -23,7 +23,7 @@
   <li> 🔭 I’m currently working on Deep Learning based project </li>
   <li> 🌱 I’m currently learning <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans"> <b>Generative Adversial Neural Networks</b>, Coursera</a> </li>
     
-  <li> 👯 I’m open to collaborate on IoT & Deep learning based projects </li>
+  <li> 👯 I’m open to collaboration on IoT & Deep learning based projects </li>
   <li> 😄 Pronouns: He/Him </li>
 </ul><br/>
 
