@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Zahid Ali</h1>
-<h3 align="center">Deep Learning and Artificial Intelligence Enthusiast</h3>
+<h3 align="center">Deep Learning and Cloud Computing Enthusiast</h3>
 
 <br/>
 <p align="left">
