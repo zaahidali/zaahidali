@@ -21,7 +21,7 @@
 <br/>
 <ul>
   <li> 🔭 I’m currently working on Deep Learning based projects </li>
-  <li> 🌱 I’m currently mastering <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans"> <b>Generative Adversial Neural Networks</b></a>, from  Coursera</li>
+  <li> 🌱 I’m currently mastering <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans"> <b>Generative Adversial Neural Networks</b></a>, from  <b>Coursera</b></li>
     
   <li> 👯 I’m open to collaboration on IoT, Deep learning and Computer Vision based projects </li>
 <!--   <li> 😄 Pronouns: He/Him </li> -->
