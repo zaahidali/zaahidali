@@ -12,7 +12,7 @@
 <p>
   <em>
     I am alumni of a<a href="https://www.mu.edu.tr/en"> <b> Muğla Sıtkı Koçman University</b>, Turkey</a> and currently a Senior Year undergraduate student of Computer Science at <a href="https://www.imsciences.edu.pk/"> <b>Institute of Management Sciences</b>, Peshawar</a>.  
-    A budding <b>Artificial Intelligence</b> <img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Developer.gif" width="30px"> and a <b>Deep Learning Enthusiast</b>&nbsp;<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Designer.gif" width="36px">  who is <b>passionate</b>
+    A budding <b>Deep Learning</b> <img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Developer.gif" width="30px"> and a <b>Cloud Computing Enthusiast</b>&nbsp;<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Designer.gif" width="36px">  who is <b>passionate</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Medal.gif" width="20px">
@@ -20,11 +20,11 @@
 </p>
 <br/>
 <ul>
-  <li> 🔭 I’m currently working on Deep Learning based project </li>
-  <li> 🌱 I’m currently learning <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans"> <b>Generative Adversial Neural Networks</b>, Coursera</a> </li>
+  <li> 🔭 I’m currently working on Deep Learning based projects </li>
+  <li> 🌱 I’m currently mastering <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans"> <b>Generative Adversial Neural Networks</b></a>, from  Coursera</li>
     
-  <li> 👯 I’m open to collaboration on IoT & Deep learning based projects </li>
-  <li> 😄 Pronouns: He/Him </li>
+  <li> 👯 I’m open to collaboration on IoT, Deep learning and Computer Vision based projects </li>
+<!--   <li> 😄 Pronouns: He/Him </li> -->
 </ul><br/>
 
 <p>
