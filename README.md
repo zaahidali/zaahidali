@@ -36,6 +36,16 @@
 </p>
 
 
+
+
+</p>
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaahidali&theme=buefy&" alt="my commit status" width="49%" /> </p>
+
+
+
+
+
 <br/>
 
 <!-- Handshake Gif-->
