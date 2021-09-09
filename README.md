@@ -11,7 +11,7 @@
 <br/>
 <p>
   <em>
-    I am alumni of a<a href="https://www.mu.edu.tr/en"> <b> Muğla Sıtkı Koçman University</b>, Turkey</a> and currently a Senior Year undergraduate student of Computer Science at <a href="https://www.imsciences.edu.pk/"> <b>Institute of Management Sciences</b>, Peshawar</a>.  
+    I am alumni of a<a href="https://www.mu.edu.tr/en"> <b> Muğla Sıtkı Koçman University</b>, Turkey</a> and currently a Fresh Graduate of Computer Science at <a href="https://www.imsciences.edu.pk/"> <b>Institute of Management Sciences</b>, Peshawar</a>.  
     A budding <b>Deep Learning</b> <img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Developer.gif" width="30px"> and a <b>Cloud Computing Enthusiast</b>&nbsp;<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Designer.gif" width="36px">  who is <b>passionate</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Rocket.gif" width="18px">and 
@@ -35,13 +35,12 @@
   <img align="center" height="195px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaahidali&layout=compact&hide=php,smarty&bg_color=30,A0A0A0,020104&title_color=fff&text_color=fff" alt="zaahidali" />
 </p>
 
-
-
-
 </p>
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaahidali&theme=buefy&" alt="my commit status" width="49%" /> </p>
 
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaahidali&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
+</p>
 
 
 
