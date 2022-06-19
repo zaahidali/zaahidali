@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Zahid Ali</h1>
-<h3 align="center">Deep Learning and Cloud Computing Enthusiast</h3>
+<h3 align="center">Full Stack Software Engineer | Active Learner</h3>
 
 <br/>
 <p align="left">
@@ -11,19 +11,14 @@
 <br/>
 <p>
   <em>
-    I am alumni of a<a href="https://www.mu.edu.tr/en"> <b> Muğla Sıtkı Koçman University</b>, Turkey</a> and currently a Fresh Graduate of Computer Science at <a href="https://www.imsciences.edu.pk/"> <b>Institute of Management Sciences</b>, Peshawar</a>.  
-    A budding <b>Deep Learning</b> <img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Developer.gif" width="30px"> and a <b>Cloud Computing Enthusiast</b>&nbsp;<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Designer.gif" width="36px">  who is <b>passionate</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Medal.gif" width="20px">
-  </em>  
+    I am alumni of a<a href="https://www.mu.edu.tr/en"> <b> Muğla Sıtkı Koçman University</b>, Turkey</a> and currently a Fresh Graduate of Computer Science at <a href="https://www.imsciences.edu.pk/"> <b>Institute of Management Sciences</b>, Peshawar</a>.
 </p>
 <br/>
 <ul>
-  <li> 🔭 I’m currently working on Deep Learning based projects </li>
-  <li> 🌱 I’m currently mastering <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans"> <b>Generative Adversial Neural Networks</b></a>, from  <b>Coursera</b></li>
+  <li> 🔭 I’m currently working on <b>Rails</b> and <b>Python</b> projects </li>
+  <li> 🌱 I’m currently mastering <b>React</b></li>
     
-  <li> 👯 I’m open to collaboration on IoT, Deep learning and Computer Vision based projects </li>
+  <li> 👯 I’m open to collaboration on research and Full Stack Software projects </li>
 <!--   <li> 😄 Pronouns: He/Him </li> -->
 </ul><br/>
 
@@ -52,8 +47,8 @@
 
 
 
-| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/zaahidali) | [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/zaahiiid/)| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/github-icon.svg" alt="Github logo" width="34">](https://github.com/zaahidali) | [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:zahid.4317@gmail.com)
-|:---:|:---:|:---:|:---:|
+| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/zaahidali) | [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/zaahiiid/)|[<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:zahid.4317@gmail.com)
+|:---:|:---:|:---:|
 
 
 
