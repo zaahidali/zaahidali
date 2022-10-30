@@ -15,8 +15,8 @@
 </p>
 <br/>
 <ul>
-  <li> 🔭 I’m currently working on <b>Rails</b> and <b>Python</b> projects </li>
-  <li> 🌱 I’m currently mastering <b>React</b></li>
+  <li> 🔭 I’m currently working on <b>Rails</b>, <b>TypeScript</b>, and <b>Python</b> projects </li>
+  <li> 🌱 I’m currently mastering <b>React/Nextjs</b></li>
     
   <li> 👯 I’m open to collaboration on research and Full Stack Software projects </li>
 <!--   <li> 😄 Pronouns: He/Him </li> -->
