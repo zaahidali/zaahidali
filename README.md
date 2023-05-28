@@ -1,26 +1,36 @@
 <h1 align="center">Hi there 👋, I'm Zahid Ali</h1>
 <h3 align="center">Full Stack Software Engineer | Active Learner</h3>
 
-<br/>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zaahidali" alt="zaahidali" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaahidali" alt="Profile Views" />
 </p>
 
-
-
-<br/>
-<p>
+<p align="center">
   <em>
-    I am alumni of a<a href="https://www.mu.edu.tr/en"> <b> Muğla Sıtkı Koçman University</b>, Turkey</a> and currently a Fresh Graduate of Computer Science at <a href="https://www.imsciences.edu.pk/"> <b>Institute of Management Sciences</b>, Peshawar</a>.
+    I am a Full Stack Software Engineer passionate about building scalable web applications and continuously expanding my knowledge in the field of computer science.
+  </em>
 </p>
+
+<p align="center">
+  <a href="https://www.mu.edu.tr/en">
+    <img src="https://img.shields.io/badge/Alumni-Muğla%20Sıtkı%20Koçman%20University-blue" alt="Muğla Sıtkı Koçman University Alumni" />
+  </a>
+  <a href="https://www.imsciences.edu.pk/">
+    <img src="https://img.shields.io/badge/Graduate-Institute%20of%20Management%20Sciences-red" alt="Institute of Management Sciences Graduate" />
+  </a>
+</p>
+
 <br/>
+
 <ul>
-  <li> 🔭 I’m currently working on <b>Rails</b>, <b>TypeScript</b>, and <b>Python</b> projects </li>
-  <li> 🌱 I’m currently mastering <b>React/Nextjs</b></li>
-    
-  <li> 👯 I’m open to collaboration on research and Full Stack Software projects </li>
-<!--   <li> 😄 Pronouns: He/Him </li> -->
-</ul><br/>
+  <li> 🔭 I’m currently working on <b>Go</b>, <b>Rails</b>, and <b>TypeScript</b> projects.</li>
+  <li> 🌱 I’m currently mastering <b>React/Next.js</b>.</li>
+  <li> 👯 I’m open to collaboration on research and Full Stack Software projects.</li>
+  <li> 💬 Ask me about web development, software engineering, and best coding practices.</li>
+  <li> ⚡ Fun fact: I love exploring nature and capturing breathtaking landscapes with my camera.</li>
+</ul>
+
+<br/>
 
 <p>
  <!-- GitHub Statistics!-->
@@ -49,7 +59,3 @@
 
 | [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/zaahidali) | [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/zaahiiid/)|[<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:zahid.4317@gmail.com)
 |:---:|:---:|:---:|
-
-
-
-
