@@ -57,5 +57,5 @@
 
 
 
-| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/zaahidali) | [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/mysterious_pogo/)|[<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:zahid.4317@gmail.com)
-|:---:|:---:|:---:|
+| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/zaahidali) | [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:zahid.4317@gmail.com)
+|:---:|:---:|
